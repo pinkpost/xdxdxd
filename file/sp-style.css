@@ -1,0 +1,159 @@
+@media screen and (max-width: 480px){
+    .header-inner ul{
+        display: none;
+    }
+    .top-content{
+        margin: 0 16px;
+    }
+    .top-content h2{
+        position: static;
+        text-align: center;
+        margin-top: 138px;
+    }
+    .top-content p{
+        position: static;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .top-content a{
+        position: static;
+        text-align: center;
+        width: 184px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+    .news{
+        height: initial;
+    }
+    .news-content{
+        position: static;
+        margin: 0 16px;
+        width: 343px;
+        position: relative;
+        top: -20px;
+        box-shadow: 0px 5px 12px #3E3E3E33;
+        height: 587px;
+    }
+    dt,dd{
+        display: block;
+        width: 100%;
+        border: none;
+        text-align: left;
+    }
+    dl{
+        border: 1px solid #ccc;
+        width: 100%;
+        height: 125px;
+    }
+    .news-btn{
+        font-size: 18px;
+        padding: 0;
+        margin: 40px 16px;
+        width: initial;
+
+    }
+    .service
+    {
+        height: initial;
+    }
+    .service-itmes{
+        display: block;
+        width: initial;
+        padding: 40px 0;
+    }
+    .service-item{
+        padding: 0;
+        margin: 0 auto;
+        
+    }
+    .service-item:nth-child(1){
+        padding: 0;
+        margin: 0 auto; 
+    }
+    .service-item:nth-child(2){
+        padding: 0;
+        margin: 0 auto;
+    }
+    .results{
+        margin: 0;
+    }
+    .results-content{
+        padding: 40px 0;
+        padding-left: 16px;
+    }
+
+    
+    
+    .comments-content{
+        width: 343px;
+        left: 0;
+        padding: 40px 0;
+        margin: 0 auto;
+    }
+    .comments-content h3{
+        padding-left: 20px;
+    }
+    .comments-item{
+        padding: 0 21px;
+        padding-bottom: 31px;
+    }
+    .comments-item img{
+        width: 56px;
+        height: 56px;
+        padding: 0;
+        padding-right: 24px;
+    }
+    .comments-item p{
+        width: 220px;
+    }
+    .comments-img img{
+        display: none;
+    }
+    .comments-black{
+        width: 100%;
+        top: -550px;
+    }
+
+    .s_01 .accordion_one{
+        width: 343px;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    .access{
+        background-color: #3E3E3E;
+    }
+    .access-content{
+        padding-top: 40px;
+        padding-left: 16px;
+        max-width: 375px;
+    }
+    .access-content h3{
+        font-size: 30px;
+        width: 370px;
+        display: inline-block;
+    }
+    .access-content p{
+        font-size: 12px;
+        display: inline;
+    }
+    .access-content p::after{
+        content: "\000A";
+        }
+    .access-content a{
+    display: inline-block;
+    margin-top: 300px;
+    width: 139px;
+
+    }
+    .access iframe{
+    width: 343px;
+    height: 241px;
+    padding: 0 16px;
+    top: -240px;
+    left: 0;
+    }
+    .contact{
+    }
+
+ }
